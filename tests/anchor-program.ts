@@ -17,7 +17,7 @@ describe("anchor-program", () => {
 
   const creator = new PublicKey("THEPOOLCREATOR");
   const user_publickey = new PublicKey("YOURPUBKEY");
-  // BLK8JB6HNdkmr3j4DmVdwXYB7dVZunwvNVgcTZyDSX7q
+  
 
   // CHECK YOUR PUMP POOL that you want to trade2 
   const base_mint = new PublicKey("BASEMINT");
